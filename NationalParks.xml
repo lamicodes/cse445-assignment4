@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:noNamespaceSchemaLocation="NationalParks.xsd">
+
+	<!-- Park 1: Grand Canyon -->
+	<NationalPark Rating="4.9">
+		<Name>Grand Canyon</Name>
+		<Phone>928-638-7496</Phone>
+		<Phone>888-297-2757</Phone>
+		<Phone>866-499-2574</Phone>
+		<Address NearestAirport="FlagStaff">
+			<Number>8</Number>
+			<Street>S Entrance Road</Street>
+			<City>Grand Canyon</City>
+			<State>AZ</State>
+			<Zip>86023</Zip>
+		</Address>
+	</NationalPark>
+
+	<!-- Park 2: Zion National Park -->
+	<NationalPark>
+		<Name>Zion National Park</Name>
+		<Phone>435-772-3256</Phone>
+		<Address NearestAirport="St. George Regional Airport">
+			<Number>1</Number>
+			<Street>Zion Park Blvd</Street>
+			<City>Springdale</City>
+			<State>UT</State>
+			<Zip>84767</Zip>
+		</Address>
+	</NationalPark>
+
+	<!-- Park 3: Acadia National Park -->
+	<NationalPark Rating="4.7">
+		<Name>Acadia National Park</Name>
+		<Phone>207-288-3338</Phone>
+		<Address NearestAirport="Hancock County-Bar Harbor Airport">
+			<Number>25</Number>
+			<Street>Visitor Center Road</Street>
+			<City>Bar Harbor</City>
+			<State>ME</State>
+			<Zip>04609</Zip>
+		</Address>
+	</NationalPark>
+
+	<!-- Park 4: Rocky Mountain National Park -->
+	<NationalPark>
+		<Name>Rocky Mountain National Park</Name>
+		<Phone>970-586-1206</Phone>
+		<Phone>970-586-1222</Phone>
+		<Address NearestAirport="Northern Colorado Regional Airport">
+			<Number>1000</Number>
+			<Street>US Highway 36</Street>
+			<City>Estes Park</City>
+			<State>CO</State>
+			<Zip>80517</Zip>
+		</Address>
+	</NationalPark>
+
+	<!-- Park 5: Great Smoky Mountains National Park -->
+	<NationalPark Rating="4.8">
+		<Name>Great Smoky Mountains National Park</Name>
+		<Phone>865-436-1200</Phone>
+		<Address NearestAirport="Gatlinburg-Pigeon Forge Airport">
+			<Number>107</Number>
+			<Street>Park Headquarters Road</Street>
+			<City>Gatlinburg</City>
+			<State>TN</State>
+			<Zip>37738</Zip>
+		</Address>
+	</NationalPark>
+
+	<!-- Park 6: Mount Rainier National Park -->
+	<NationalPark>
+		<Name>Mount Rainier National Park</Name>
+		<Phone>360-569-2211</Phone>
+		<Address NearestAirport="Seattle-Tacoma International Airport">
+			<Number>55210</Number>
+			<Street>238th Avenue East</Street>
+			<City>Ashford</City>
+			<State>WA</State>
+			<Zip>98304</Zip>
+		</Address>
+	</NationalPark>
+
+	<!-- Park 7: Olympic National Park -->
+	<NationalPark Rating="4.6">
+		<Name>Olympic National Park</Name>
+		<Phone>360-565-3130</Phone>
+		<Address NearestAirport="William R. Fairchild International Airport">
+			<Number>3002</Number>
+			<Street>Mount Angeles Road</Street>
+			<City>Port Angeles</City>
+			<State>WA</State>
+			<Zip>98362</Zip>
+		</Address>
+	</NationalPark>
+
+	<!-- Park 8: Shenandoah National Park -->
+	<NationalPark>
+		<Name>Shenandoah National Park</Name>
+		<Phone>540-999-3500</Phone>
+		<Address NearestAirport="Luray Caverns Airport">
+			<Number>3655</Number>
+			<Street>US Highway 211 East</Street>
+			<City>Luray</City>
+			<State>VA</State>
+			<Zip>22835</Zip>
+		</Address>
+	</NationalPark>
+
+	<!-- Park 9: Joshua Tree National Park -->
+	<NationalPark Rating="4.7">
+		<Name>Joshua Tree National Park</Name>
+		<Phone>760-367-5500</Phone>
+		<Phone>760-367-5554</Phone>
+		<Address NearestAirport="Twentynine Palms Airport">
+			<Number>74485</Number>
+			<Street>National Park Drive</Street>
+			<City>Twentynine Palms</City>
+			<State>CA</State>
+			<Zip>92277</Zip>
+		</Address>
+	</NationalPark>
+
+	<!-- Park 10: Everglades National Park -->
+	<NationalPark>
+		<Name>Everglades National Park</Name>
+		<Phone>305-242-7700</Phone>
+		<Address NearestAirport="Homestead General Aviation Airport">
+			<Number>40001</Number>
+			<Street>State Road 9336</Street>
+			<City>Homestead</City>
+			<State>FL</State>
+			<Zip>33034</Zip>
+		</Address>
+	</NationalPark>
+
+	<!-- Park 11: Glacier National Park -->
+	<NationalPark Rating="4.8">
+		<Name>Glacier National Park</Name>
+		<Phone>406-888-7800</Phone>
+		<Address NearestAirport="Glacier Park International Airport">
+			<Number>61</Number>
+			<Street>Scoyen Circle</Street>
+			<City>West Glacier</City>
+			<State>MT</State>
+			<Zip>59936</Zip>
+		</Address>
+	</NationalPark>
+
+</NationalParks>
